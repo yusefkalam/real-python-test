@@ -1,0 +1,5 @@
+Scrapy==0.24.2
+Twisted==14.0.0
+queuelib==1.1.1
+virtualenv==1.11.6
+w3lib==1.6
